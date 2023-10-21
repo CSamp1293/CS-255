@@ -1,1 +1,16 @@
-# CS255
+# CS-255 
+
+## Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass project was a hands on assignment that made a deep dive into the world of systems analysis and design. DriverPass, the client, aims to help new drivers develop into skilled drivers through means of practice exams, studying, and appointments with drivers all provided by DriverPass. DriverPass wanted a system that allows customers/students to create an account, purchase specific packages for lessons based on skill, study and take online exams with questions provided by the DMV directly, and the ability to schedule appointments online, in-person, or over the phone, with instructors provided by DriverPass. More in-depth details are provided in the Business Requirements Documentation attatched. Some things such as who is a part of the system/who are the users of the system, what they have the ability to do and what their restrictions are, and helpful information regarding hardware requirements and system requirements can be found in the mentioned documentation. 
+
+## What did you do particularly well?
+I feel I did particularly well making sure that I clearly described my intentions of how to implement the system via the System Design Document. Though i found it difficult and frusterating to navigate LucidChart occasionally, the diagrams I was able to put together help paint a solid picture of how the system can be implemented to the clients liking. 
+
+## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I I were to revise one part of these documents, it would be the Business Requirements Document. I feel I added a lot of useful and helpful information, however, there was some information that I also feel was omitted after doing the work on the System Design Document almost making the two documents seem like completely different ideas. In order to fix this, I would simply revise the document and add more information about what the design will look like, what the goals are and the non-goals are. 
+
+## How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+Interpreting the users needs was done via interview and technical requirements provided by DriverPass. It's important to obtain this information to ensure you are building something that the client will be happy with. When you carefully consider each of the user's needs, you can get a clear idea of what is expected making the whole designing process a little less complicated as opposed to going in "blind".
+
+## How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I would say the biggest help for approaching software design was thinking in terms of functional requirements and non-functional requirements. Doing so allowed me to have a clearer understanding of what to look for in the client interview in terms of what they are expecting with this system. I also felt creating multiple diagrams was useful in "seeing" the design visually laid out. Though the design wasn't fully implemented in this project, I could see through the diagrams what it could like had it actually been coded and brought to fruition. 
